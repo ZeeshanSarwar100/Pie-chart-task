@@ -3,9 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chart.js": "^2.8.0",
+    "convert-csv-to-array": "^1.0.3",
+    "csvtojson": "^2.0.8",
+    "d3": "^5.9.2",
+    "file-system": "^2.2.2",
+    "jsontocsv": "^0.3.0",
+    "papaparse": "^4.6.3",
     "react": "^16.8.6",
+    "react-c3js": "^0.1.20",
+    "react-chartjs": "^1.2.0",
+    "react-chartjs-2": "^2.7.6",
+    "react-csv-reader": "^1.2.2",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-file-system": "^1.0.4",
+    "react-minimal-pie-chart": "^4.0.0",
+    "react-scripts": "3.0.1",
+    "react-table": "^6.10.0",
+    "reactjs-utils": "^0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",

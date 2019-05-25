@@ -1,0 +1,58 @@
+/* .chart{
+
+    height: 400px;
+    width: 400px;
+
+
+} */
+
+
+
+.main-class{
+    width: 100%;
+    background: gray;
+    }
+    
+    
+    
+    .pie-chart-style{
+        height: 466px;
+        width: 50%;
+        float:left;
+        background:white;
+        padding-top:2%;
+        
+        
+    }
+    
+    .table-style{
+    
+      width: 50%;
+      float: left;
+      background :white;
+    }
+    
+    
+     @media (max-width: 600px) { 
+    
+      
+        
+        
+        
+        .pie-chart-style{
+        
+            width: 100%;
+            
+        }
+        
+        .table-style{
+        
+          width: 100%;
+         
+        }
+    
+    
+    
+    
+    
+     } 
