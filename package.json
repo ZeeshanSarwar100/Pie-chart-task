@@ -18,7 +18,7 @@
     "react-dom": "^16.8.6",
     "react-file-system": "^1.0.4",
     "react-minimal-pie-chart": "^4.0.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-table": "^6.10.0",
     "reactjs-utils": "^0.1.0"
   },
